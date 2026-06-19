@@ -46,13 +46,13 @@ Open to Full-Time Opportunities in Computer Vision, AI, Robotics & Intelligent S
 ### Languages
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,cpp,c,matlab,linux,git,github,mysql" />
+  <img src="https://skillicons.dev/icons?i=python,cpp,c,matlab,mysql" />
 </p>
 
 ### AI & Deep Learning
 
 <p>
-  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow" />
+  <img src="https://skillicons.dev/icons?i=pytorch,linux,git,github" />
 </p>
 
 PyTorch • TensorFlow • OpenCV • Open3D • Hugging Face • Vision Transformers • YOLO • Scikit-Learn
