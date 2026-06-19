@@ -36,8 +36,6 @@ Open to Full-Time Opportunities in Computer Vision, AI, Robotics & Intelligent S
 - 3D Vision
 - Industrial AI
 
-📄 First-author research paper under review at **IEEE Sensors 2026**
-
 ---
 
 ## 🛠 Tech Stack
