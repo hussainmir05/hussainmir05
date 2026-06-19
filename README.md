@@ -1,58 +1,144 @@
 <h1 align="center">Hi 👋, I'm Hussain Khadim</h1>
 
+<h3 align="center">
+Computer Vision Researcher • AI Engineer • MS @ Sungkyunkwan University
+</h3>
+
 <p align="center">
-  <em>Computer Vision researcher &middot; MS @ Sungkyunkwan University &middot; Graduating August 2026</em>
+Graduating August 2026 | Open to Computer Vision, AI, Robotics & Industrial Automation Roles
 </p>
 
 <p align="center">
-  <a href="mailto:hussainmir05@yahoo.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"/></a>
-  <a href="https://linkedin.com/in/hussainmir05"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <img src="https://img.shields.io/badge/Suwon%2C%20South%20Korea-4B8BBE?style=flat-square&logo=googleearth&logoColor=white" alt="Location"/>
+<a href="mailto:hussainmir05@yahoo.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://linkedin.com/in/hussainmir05">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/hussainmir05">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
 </p>
 
 ---
 
-### 🔬 About me
+# 👨‍💻 About Me
 
-- 🎓 **MS in Computer Science & Engineering** at **Sungkyunkwan University (SKKU)** — graduating **August 2026**
-- 🏛️ Graduate researcher at the **Intelligent Systems Research Institute (ISRI)**, IITP-funded **EdgeBrain-2** project
-- 🌏 Open to roles in Korea: **intelligent inspection · industrial automation · computer vision · robot perception**
+🎓 MS in Computer Science & Engineering at **Sungkyunkwan University (SKKU), South Korea**
+
+🔬 Graduate Researcher at **Intelligent Systems Research Institute (ISRI)**
+
+🧠 Researching:
+
+- Computer Vision
+- Material Recognition
+- 3D Vision
+- RGB + NIR Imaging
+- Vision Transformers
+- Deep Learning
+- Industrial Inspection
+- Robotics Vision
+
+📄 First-author paper under review at **IEEE Sensors 2026**
+
+🎯 Currently seeking opportunities in
+
+- Computer Vision
+- Machine Learning
+- AI Research
+- Robotics
+- Intelligent Manufacturing
+- Industrial Automation
 
 ---
 
-### 🛠️ Tech stack
+# 🚀 Research Interests
+
+- Vision Transformers
+- Image Classification
+- Material Recognition
+- Multispectral Imaging
+- RGB + NIR Fusion
+- Reflectance Estimation
+- 3D Point Cloud Processing
+- Structured-light Cameras
+- Industrial AI
+- Deep Learning
+
+---
+
+# 🛠 Languages
 
 <p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white" alt="C++"/>
-  <img src="https://img.shields.io/badge/MATLAB-0076A8?style=flat-square&logo=mathworks&logoColor=white" alt="MATLAB"/>
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" alt="PyTorch"/>
-  <img src="https://img.shields.io/badge/🤗%20Transformers-FFD21E?style=flat-square&logoColor=black" alt="Hugging Face"/>
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" alt="TensorFlow"/>
-  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" alt="scikit-learn"/>
+
+<img src="https://skillicons.dev/icons?i=python,cpp,c,matlab,linux,git,github,mysql"/>
+
 </p>
+
+---
+
+# 🤖 AI & Deep Learning
 
 <p>
-  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" alt="OpenCV"/>
-  <img src="https://img.shields.io/badge/Open3D-3A88FE?style=flat-square&logoColor=white" alt="Open3D"/>
-  <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" alt="NumPy"/>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git"/>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux"/>
-  <img src="https://img.shields.io/badge/LaTeX-008080?style=flat-square&logo=latex&logoColor=white" alt="LaTeX"/>
+
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow"/>
+
+</p>
+
+- Hugging Face Transformers
+- Scikit-Learn
+- CNNs
+- Vision Transformers
+- YOLO
+- SSD
+
+---
+
+# 👁 Computer Vision
+
+- OpenCV
+- Open3D
+- Image Processing
+- Object Detection
+- Image Classification
+- Structured-light 3D Vision
+- RGB + NIR Imaging
+- Point Cloud Processing
+
+---
+
+# 📊 GitHub Stats
+
+<p align="center">
+
+<img height="170"
+src="https://github-readme-stats.vercel.app/api?username=hussainmir05&show_icons=true&include_all_commits=true&count_private=true"/>
+
+<img height="170"
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=hussainmir05&layout=compact"/>
+
 </p>
 
 ---
 
-### 📊 GitHub stats
+# 🔥 GitHub Streak
 
 <p align="center">
-  <img height="155" src="https://github-readme-stats.vercel.app/api?username=hussainmir05&show_icons=true&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
-  <img height="155" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hussainmir05&layout=compact&hide_border=true&langs_count=8" alt="Top Languages"/>
+
+<img src="https://streak-stats.demolab.com?user=hussainmir05"/>
+
 </p>
 
 ---
 
-<p align="center">
-  📧 <a href="mailto:hussainmir05@yahoo.com">hussainmir05@yahoo.com</a> &middot; 💼 <a href="https://linkedin.com/in/hussainmir05">LinkedIn</a>
-</p>
+# 📫 Connect with Me
+
+- 📧 hussainmir05@yahoo.com
+- 💼 https://linkedin.com/in/hussainmir05
+- 📍 Suwon, South Korea
+
+---
+
+> *"Building AI systems that understand the physical world through vision."*
