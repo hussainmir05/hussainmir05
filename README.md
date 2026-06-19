@@ -3,7 +3,6 @@
 <h3 align="center">
 Computer Vision Engineer • AI Researcher • M.S. @ Sungkyunkwan University
 </h3>
-
 <p align="center">
 Open to Full-Time Opportunities in Computer Vision, AI, Robotics & Intelligent Systems
 </p>
