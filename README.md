@@ -27,6 +27,8 @@ Open to Full-Time Opportunities in Computer Vision, AI, Robotics & Intelligent S
 
 🔬 Graduate Researcher at the **Intelligent Systems Research Institute (ISRI)**
 
+🎓 B.S. in Computer Engineering at **University of Engineering and Technology Taxila (UET), Paksitan**
+
 💡 Interested in:
 
 - Computer Vision
