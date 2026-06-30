@@ -56,22 +56,7 @@ PyTorch • TensorFlow • OpenCV • Open3D • Hugging Face • Vision Transfo
 
 ---
 
-## 📊 GitHub Stats
 
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=hussainmir05&show_icons=true&count_private=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hussainmir05&layout=compact" />
-</p>
-
----
-
-## 🔥 GitHub Streak
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=hussainmir05" />
-</p>
-
----
 
 ## 📫 Contact
 
